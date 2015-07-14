@@ -1,0 +1,1 @@
+{"container_id":"5792c42e-a054-40ca-a58c-29f70b327ccf","container_name":"hello-famous","widget_name":"hello-famous","widget_id":"c68e6210-d39f-41cc-bfb6-77c56424c644","scripts":{"deploy":[["run","build"]],"setup":["install"]}}
